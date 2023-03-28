@@ -1,2 +1,2 @@
 # PokemonList-Vue
-Created with CodeSandbox
+Same functiona, using vue instead
